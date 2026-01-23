@@ -10,6 +10,3 @@ I’m an incoming Consultant at Oliver Wyman and senior at UC Davis majoring in 
 
 * Real time American Sign Language translator that detects signs with computer vision.
 
-3. [Covid Vaccine Predictor:](https://github.com/brianle423/COVID-Predictive-Vaccine-App)
-
-* Dashboard that predicts vaccine rates by country.
